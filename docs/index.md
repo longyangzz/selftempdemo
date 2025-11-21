@@ -8,7 +8,7 @@
 
 
 -   Free software: MIT license
--   Documentation: <https://longyangzz.github.io/selftempdemo>
+-   Documentation: <https://pypi.org/project/selftempdemo/>
     
 
 ## Features
