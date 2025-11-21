@@ -16,4 +16,9 @@
 
 -   TODO
 
+## Publish
+- pip install -r .\requirements_dev.txt
+- python .\setup.py sdist
+- twine upload .\dist\selftempdemo-0.0.1.tar.gz
+
 This package was created using the [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [giswqs/pypackage](https://github.com/giswqs/pypackage) project template.
