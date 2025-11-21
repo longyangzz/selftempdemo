@@ -14,10 +14,10 @@
 ## how to use
 - pip install -U cookiecutter
 
-** 根据模板创建项目命令一：toml现代python工程规范
+** 根据模板创建项目命令一：toml现代python工程规范 
 cookiecutter gh:Undertone0809/python-package-template --checkout v1.0.3
 
-** 根据模板创建项目命令二：老版本的python工程规范
+** 根据模板创建项目命令二：老版本的python工程规范 
 cookiecutter gh:giswqs/pypackage
 
 ## Features
