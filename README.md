@@ -15,3 +15,5 @@
 ## Features
 
 -   TODO
+
+This package was created using the [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [giswqs/pypackage](https://github.com/giswqs/pypackage) project template.
