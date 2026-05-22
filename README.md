@@ -9,7 +9,7 @@
 
 
 -   Free software: MIT license
--   Documentation: https://longyangzz.github.io/selftempdemo
+-   Documentation: https://longyangzz.github.io/PythonTemplatedemo
 
 ## how to use
 - pip install -U cookiecutter
